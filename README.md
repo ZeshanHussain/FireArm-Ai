@@ -26,7 +26,7 @@ Open-CV uses positive and negative images and you need a lot of them ...
 
 https://user-images.githubusercontent.com/88027437/189509156-8aad4d51-3d6b-4713-a5b2-f9c821b811e9.mov
 
-An Positive image is the object you want to detect !
+Positive image is the object you want to detect !
 
 
 
