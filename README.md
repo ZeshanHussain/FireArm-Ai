@@ -1,5 +1,5 @@
-# Sxhoolshooteralert
-Hi, my name is Zeshan and I am a freshman at my local community college studying Computer Engineering and Science, I am expected to transfer to a UC (University of California) in 2026 or into MIT next year xD.  When I Graduated from High School in May a week after the Uvalde shooting, I was in complete distress, all those kids had a future, a future full of energy that was taken away from them because of stupid "Gun Laws". It is mind blowing to me that the United States of America has to deal with this, c'mon now our country is better than this. I spent my entire summer trying to figure out ways and I found a way to help save lives. 
+# FireArm Detection
+ When I Graduated from High School in May a week after the Uvalde shooting, I was in complete distress, all those kids had a future, a future full of energy that was taken away from them because of stupid "Gun Laws". It is mind blowing to me that the United States of America has to deal with this, c'mon now our country is better than this. I spent my entire summer trying to figure out ways and I found a way to help save lives. 
 Im creating a camera that is using Open-CV that will be able to detect firearms.  If the camera detects a person with a gun it will trigger an alarm giving students more time for cover. I trained over 60 thousand images and created my own HAAR Cascade Image Classifier using a toy gun but in the future I will be using real Firearms for data and I need the community help with that part aswell.  
 
 
@@ -38,7 +38,8 @@ While a Negative image is the surrounding area of the object. (Example: Trees, P
 ![Screenshot 2022-09-10 at 22-37-46 @zeshan_maker • Instagram photos and videos](https://user-images.githubusercontent.com/88027437/189504156-d6bf9b5b-bfa5-44a0-98cf-18f50338f308.png)
 
 
-Here is some test Prototypes for the case of the Camera :DDDD
+Here is some test Prototypes for the case
+ of the Camera :DDDD
 
 
 
