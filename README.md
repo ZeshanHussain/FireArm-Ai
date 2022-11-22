@@ -1,5 +1,5 @@
 # FireArm Detection
- When I Graduated from High School in May a week after the Uvalde shooting, I was in complete distress, all those kids had a future, a future full of energy that was taken away from them because of stupid "Gun Laws". It is mind blowing to me that the United States of America has to deal with this, c'mon now our country is better than this. I spent my entire summer trying to figure out ways and I found a way to help save lives. 
+ When I Graduated from High School in May a week after the Uvalde shooting, I was in complete distress, all those kids had a future, a future full of energy that was taken away from them. I spent my entire summer trying to figure out ways and I found a way to help save lives. 
 Im creating a camera that is using Open-CV that will be able to detect firearms.  If the camera detects a person with a gun it will trigger an alarm giving students more time for cover. I trained over 60 thousand images and created my own HAAR Cascade Image Classifier using a toy gun but in the future I will be using real Firearms for data and I need the community help with that part aswell.  
 
 
