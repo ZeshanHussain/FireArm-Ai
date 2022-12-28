@@ -13,6 +13,7 @@ Im creating a camera that is using Open-CV that will be able to detect firearms.
 
 ![haar](https://user-images.githubusercontent.com/88027437/189508910-e71e20cd-4223-403e-9266-854d17f93690.png)
 (https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
+
 Open-CV uses positive and negative images and you need a lot of them ... 
 
 
