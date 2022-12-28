@@ -23,11 +23,10 @@ Open-CV uses positive and negative images and you need a lot of them ...
 
 
 
+![FireArm Cascade in action - Imgur (1)](https://user-images.githubusercontent.com/88027437/209859840-06523849-f4a7-4cc2-8b02-effb98489c69.gif)
 
-https://user-images.githubusercontent.com/88027437/189509156-8aad4d51-3d6b-4713-a5b2-f9c821b811e9.mov
 
 Positive image is the object you want to detect !
-
 
 
 While a Negative image is the surrounding area of the object. (Example: Trees, People , animals or etcc)
