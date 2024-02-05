@@ -21,7 +21,14 @@ Open-CV uses positive and negative images and you need a lot of them ...
 
 
 
-<source src="https://github.com/ZeshanHussain/FireArm-Ai/assets/88027437/a197f6d2-ac9b-40d2-a58f-b717125d7e72" type="video/mp4">.
+
+
+
+
+
+https://github.com/ZeshanHussain/FireArm-Ai/assets/88027437/a5cda331-f99c-448a-87ac-68001813bc3c
+
+
 
 
 
