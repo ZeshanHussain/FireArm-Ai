@@ -24,7 +24,11 @@ After witnessing the devastating Uvalde shooting shortly after my high school gr
 
 
 Firearm detection
-https://github.com/ZeshanHussain/FireArm-Ai/assets/88027437/a5cda331-f99c-448a-87ac-68001813bc3c
+
+
+
+https://github.com/ZeshanHussain/FireArm-Ai/assets/88027437/592d74a8-c49f-4ec3-b34f-2d056247de26
+
 
 
 
