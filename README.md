@@ -24,7 +24,11 @@ Open-CV uses positive and negative images and you need a lot of them ...
 
 
 
-![FireArm Cascade in action - Imgur (1)](https://user-images.githubusercontent.com/88027437/209859840-06523849-f4a7-4cc2-8b02-effb98489c69.gif)
+
+
+https://github.com/ZeshanHussain/FireArm-Ai/assets/88027437/9f4dde04-3c2f-4d9a-90ac-71abe9f98a33
+
+
 
 
 Positive image is the object you want to detect !
