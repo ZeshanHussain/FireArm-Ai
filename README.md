@@ -14,3 +14,4 @@ This is not just a project; it’s the foundation of a startup I’m building to
  **HTML:** For explaining my goal for this startup/project.
 
 **Twilio Voice API:** Facilitates instant voice alerts for critical situations.
+![Demo](Neural.gif)
